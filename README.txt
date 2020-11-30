@@ -1,3 +1,4 @@
+Just for reference. Copying or plagiarism is not allowed!
 The excutable file is named as program 6.
 
 For using "cut off left", "cut off right", "extent left", "extend right",
